@@ -236,8 +236,6 @@
   - type: Sprite
     sprite: Structures/Doors/Airlocks/Standard/shuttle-base.rsi
     layers:
-    - state: docking-clamp
-      offset: 0, -1
     - state: assembly
 
 - type: entity
