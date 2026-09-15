@@ -12,7 +12,7 @@
   name: alert-level-blue
   announcement: alert-level-blue-announcement
   instructions: alert-level-blue-instructions
-  sound: /Audio/Misc/bluealert.ogg
+  sound: /Audio/Misc/Alert_State_Change.ogg
   color: DodgerBlue
   emergencyLightColor: DodgerBlue
   forceEnableEmergencyLights: true
@@ -23,7 +23,7 @@
   name: alert-level-yellow
   announcement: alert-level-yellow-announcement
   instructions: alert-level-yellow-instructions
-  sound: /Audio/Misc/notice1.ogg
+  sound: /Audio/Misc/Alert_State_Change.ogg
   color: Yellow
   emergencyLightColor: Goldenrod
   forceEnableEmergencyLights: true
@@ -34,7 +34,7 @@
   name: alert-level-red
   announcement: alert-level-red-announcement
   instructions: alert-level-red-instructions
-  sound: /Audio/Misc/redalert.ogg
+  sound: /Audio/Misc/Alert_State_Change.ogg
   color: Red
   emergencyLightColor: Red
   forceEnableEmergencyLights: true
@@ -48,7 +48,7 @@
   name: alert-level-violet
   announcement: alert-level-violet-announcement
   instructions: alert-level-violet-instructions
-  sound: /Audio/Misc/notice1.ogg
+  sound: /Audio/Misc/Alert_State_Change.ogg
   color: Violet
   emergencyLightColor: Violet
   forceEnableEmergencyLights: true

@@ -7,6 +7,12 @@
     layers:
       - map: [ base ]
         state: icon
+  - type: EmitSoundOnPickup
+    sound:
+      path: /Audio/Items/Handling/Container/toolbox_pickup.ogg
+  - type: EmitSoundOnDrop
+    sound:
+      path: /Audio/Items/toolbox_drop.ogg
   - type: EmitSoundOnLand
     sound:
       path: /Audio/Items/toolbox_drop.ogg

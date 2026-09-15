@@ -1,0 +1,7 @@
+- type: soundCollection
+  id: genericpickup
+  files:
+  - /Audio/Items/Handling/generic_pickup1.ogg
+  - /Audio/Items/Handling/generic_pickup1.ogg
+  - /Audio/Items/Handling/generic_pickup1.ogg
+

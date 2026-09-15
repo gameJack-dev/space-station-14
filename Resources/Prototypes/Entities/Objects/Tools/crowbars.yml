@@ -5,6 +5,12 @@
   name: crowbar
   description: A multipurpose tool used for many tasks, such as prying doors or bludgeoning interdimensional invaders.
   components:
+  - type: EmitSoundOnPickup
+    sound:
+      path: /Audio/Items/Handling/Tools/crowbar_pickup.ogg
+  - type: EmitSoundOnDrop
+    sound:
+      path: /Audio/Items/crowbar_drop.ogg
   - type: EmitSoundOnLand
     sound:
       path: /Audio/Items/crowbar_drop.ogg
